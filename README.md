@@ -2,12 +2,13 @@
 
 > Wrap words to a specified length.
 
+*note: word-wrap unmaintained repo was forked to fix security vulnerability
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save word-wrap
+$ npm install --save @adastradev/fix-word-wrap
 ```
 
 ## Usage
